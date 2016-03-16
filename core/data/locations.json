@@ -1,0 +1,27 @@
+[
+{
+  "name": "Chipotle",
+  "geopoint": [30.448790, -84.311158],
+  "image": "core/images/business_chipotle.png"
+},
+{
+  "name": "Starbucks",
+  "geopoint": [30.448734, -84.309667],
+  "image": "core/images/business_starbucks.png"
+},
+{
+  "name": "Publix Supermarket",
+  "geopoint": [30.445280, -84.318390],
+  "image": "core/images/business_publix.png"
+},
+{
+  "name": "Florida State Capitol",
+  "geopoint": [30.438120, -84.282129],
+  "image": "core/images/poi_flcapitol.png"
+},
+{
+  "name": "Tallahassee International Airport",
+  "geopoint": [30.397549, -84.344899],
+  "image": "core/images/poi_airport.png"
+}
+]
